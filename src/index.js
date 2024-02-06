@@ -49,6 +49,7 @@ const AlphaWallet = {
     engine.enable = options.enable
     engine.chainId = syncOptions.networkVersion
     engine.isAlphaWallet = true
+    engine.isLif3Wallet = true
     engine.start()
 
     return engine
