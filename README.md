@@ -1,13 +1,13 @@
-# AlphaWalletWeb3Provider
+# Lif3WalletWeb3Provider
 
-## How to Identify AlphaWallet Provider
+## How to Identify Lif3Wallet Provider
 
-If AlphaWallet provider injected properly `isAlphaWallet` will be `true`
+If Lif3Wallet provider injected properly `isLif3Wallet` will be `true`
 
 ```javascript
- web3.currentProvider.isAlphaWallet
+ web3.currentProvider.isLif3Wallet
 ```
 
 ## License
 
-AlphaWalletWeb3Provider is available under the MIT license. See the LICENSE file for more info.
+Lif3WalletWeb3Provider is available under the MIT license. See the LICENSE file for more info.
